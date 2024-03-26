@@ -1,0 +1,36 @@
+#footerdiv{
+    top:250px;
+    position:relative;
+    height:500px;
+    width:1350px;
+    border:1px solid black;
+    background-color: black;
+    color:white;
+}
+#displayfooter{
+    display: flex;
+    margin-top:100px;
+    margin-left:100px;
+    gap:50px;
+}
+#input{
+    height:30px;
+    width:200px;
+}
+#subscribe{
+    height:30px;
+    border:1px solid  #fd0053;
+    color:white;
+    width:100px;
+    background-color: #fd0053;
+}
+#southdisplay{
+    display: flex;
+}
+#serviexe a:hover{
+    color:#fd0053;
+}
+#copyright{
+    text-align: center;
+    margin-top:50px;
+}
